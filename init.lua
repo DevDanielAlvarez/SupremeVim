@@ -1,1 +1,1 @@
-require("lua.config.ui")
+require("config.ui")
