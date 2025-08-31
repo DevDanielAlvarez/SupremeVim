@@ -5,5 +5,6 @@ return {
 
 		--On Lua LSP
 		lspConfig.lua_ls.setup({})
+		lspConfig.intelephense.setup({})
 	end
 }
